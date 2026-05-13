@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "rest-api": {
+      "command": "npx",
+      "args": ["tsx", "/Users/germanrosso/Proyectos/mcps/mcp-rest-api/src/index.ts"],
+      "env": {
+        "API_BASE_URL": "https://api.github.com"
+      }
+    }
+  }
+}
