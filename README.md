@@ -110,4 +110,4 @@ Tested with: GitHub API · Stripe · Shopify Admin API · HubSpot · custom inte
 
 ## Custom integration
 
-Need this configured for your specific API, with custom auth, error handling, or additional tools? [Get in touch →](mailto:germanr.dev@gmail.com)
+Need this configured for your specific API, with custom auth, error handling, or additional tools? Get in touch → [(mailto:germanr.dev@gmail.com)]
