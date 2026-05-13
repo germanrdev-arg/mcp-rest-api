@@ -15,7 +15,7 @@ This MCP server lets Claude (via Cursor, Claude Desktop, or Claude Code) interac
 
 ## Demo
 
-> Claude calling a real API endpoint through the MCP server — live response in under 2 seconds.
+> Claude calling a real API endpoint through the MCP server — live response.
 
 <img width="800" height="661" alt="Grabaciondepantalla2026-05-13alas15 58 39-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/7fe152e8-28b8-40e7-9f46-a0a33d208b7d" />
 
@@ -24,7 +24,7 @@ This MCP server lets Claude (via Cursor, Claude Desktop, or Claude Code) interac
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/yourusername/mcp-rest-api
+git clone https://github.com/germanrdev-arg/mcp-rest-api
 cd mcp-rest-api
 npm install
 ```
@@ -44,7 +44,7 @@ Supports three auth methods out of the box:
 - API key header (`API_KEY`)
 - No auth (public APIs)
 
-### 3. Connect to Cursor or Claude Desktop
+### 3. Connect to VSCode, Cursor or Claude Desktop
 
 **Cursor** — Settings → MCP → Add server:
 
